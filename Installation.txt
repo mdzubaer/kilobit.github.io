@@ -1,0 +1,25 @@
+***** Installation  Process For 🆕 Gradient Alpha Faucet🚰 Version By aditya016😄 *****
+
+1. Upload all files from folder to your webhosting root or you can also install it in any folder
+
+2. After that go to <libs> and open <config.php> with notepad.
+
+3. Fill all necessary details..
+
+4. NOTE :💡 PLEASE DON'T CHANGE DATABASE NAME 
+
+5. Place Your AdCodes..
+
+6. Hit Save  And Load Your Website ..
+
+***** How To Get BTC.ms api key *****
+
+Get BTC.MS API HERE                                                      ==> http://tinyurl.com/btcms-api
+
+--- Please don't place anonymous ad network adcode in config file it will cause 500 internal server error ..
+--- If You want to place any a-ads code then manually place it in index.php 
+
+If You Still Stuck With Any Problem Then Visit ☺  https://cctalk.io/index.php?topic=13.0. for help..
+
+
+Thanks😊😊😊
